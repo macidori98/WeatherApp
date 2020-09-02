@@ -17,5 +17,4 @@ namespace WeatherApp.Model
     public string MobileLink { get; set; }
     public string Link { get; set; }
   }
-
 }
